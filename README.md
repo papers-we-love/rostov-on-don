@@ -16,5 +16,5 @@ Fell free to:
 
 ## Events
 
-### PWL #1: "Local Optimization for Robust Signed Distance Field Collision" by [Viktor Gridnevsky](https://github.com/6r1d)
-[Information about event on VK](https://vk.com/event200352169), [Recorded talk on YouTube](http://youtube.com/watch?v=9WnO1Ngdy0w)
+### [2020-11-21] PWL #1: "Local Optimization for Robust Signed Distance Field Collision" 
+by [Viktor Gridnevsky](https://github.com/6r1d), [information about event on VK](https://vk.com/event200352169), [recorded talk on YouTube](http://youtube.com/watch?v=9WnO1Ngdy0w), [paper source](https://dl.acm.org/doi/10.1145/3384538)
