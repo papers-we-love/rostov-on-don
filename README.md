@@ -13,3 +13,8 @@ Fell free to:
 
 * Murat Kasimov ([Github](https://github.com/iokasimov), [Twitter](https://twitter.com/iokasimovm))
 * Viktor Gridnevsky ([Github](https://github.com/6r1d), [Twitter](https://twitter.com/I_am_6r1d))
+
+## Events
+
+### PWL #1: "Local Optimization for Robust Signed Distance Field Collision" by [Viktor Gridnevsky](https://github.com/6r1d)
+[Information about event on VK](https://vk.com/event200352169), [Recorded talk on YouTube](http://youtube.com/watch?v=9WnO1Ngdy0w)
